@@ -19,7 +19,6 @@ public class Cadastro {
                 break;
             }
             System.out.println("Acesso Negado!");
-
         }
         System.out.println("Programa finalizado!");
         input.close();
